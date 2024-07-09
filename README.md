@@ -14,8 +14,7 @@ NetBeans: El proyecto fue desarrollado usando NetBeans IDE. Se recomienda usar N
 ## Instalación
 1. **Clonar el repositorio**:
    ```bash
-Copia codice
-git clone https://github.com/FacundoEFrias/Consecionario-Automovil-Java.git
+   git clone https://github.com/FacundoEFrias/Consecionario-Automovil-Java.git
 Abrir el proyecto en NetBeans:
 
 2. **Abre NetBeans IDE.**
